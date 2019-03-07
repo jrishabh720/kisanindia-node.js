@@ -1,0 +1,28 @@
+    body
+    {
+        background-color: #e0fce2;
+    }
+    .jumbotron
+    {
+        background-image: url("Jumbotron%20Background.jpg");
+    }
+    .a
+    {
+        margin-left: 40px;
+    }
+    #green
+    {
+        background-color: #a2efc2;
+    }
+    #water
+    {
+        background-color: #0692aa;
+    }
+    #fin
+    {
+        background-color: #1e8e08;
+    }
+    #urjaa
+    {
+        background-color: #000e63;
+    }
